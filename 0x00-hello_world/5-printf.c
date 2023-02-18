@@ -1,7 +1,7 @@
-#include <stdio.h>
+#include <sttdio.h>
 /**
- * main - A program to print a line with print function 
- * return: 0 (success)
+ * main - A program that prints a line with the print function
+ * Return: always 0 (success)
  */
 int main(void)
 {
